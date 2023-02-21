@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  ringbuffer.cpp
+  Generating Code...
+D:\Studio\Ringbuffer\Ringbuffer\ringbuffer.cpp(22): warning C4715: 'ringbuffer_data_len': not all control paths return a value
+  Ringbuffer.vcxproj -> D:\Studio\Ringbuffer\x64\Debug\Ringbuffer.exe
