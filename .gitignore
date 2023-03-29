@@ -1,0 +1,14 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+x64/
+x86/
+**/build/
+
+
+# Visual Studio cache/options directory
+**/.vs/
